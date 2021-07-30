@@ -1,0 +1,90 @@
+[
+        {
+                "id_torneo": 10,
+                "nombre_torneo": "FRANCE: Ligue 1"
+        },
+        {
+                "id_torneo": 13,
+                "nombre_torneo": "ITALY: Serie A"
+        },
+        {
+                "id_torneo": 14,
+                "nombre_torneo": "SPAIN: La Liga"
+        },
+        {
+                "id_torneo": 15,
+                "nombre_torneo": "ENGLAND: Premier League"
+        },
+        {
+                "id_torneo": 64,
+                "nombre_torneo": "BRASIL: Serie A"
+        },
+        {
+                "id_torneo": 67,
+                "nombre_torneo": "IRELAND: Premier Division"
+        },
+        {
+                "id_torneo": 102,
+                "nombre_torneo": "WORLD: INTERNATIONAL FRIENDLIES"
+        },
+        {
+                "id_torneo": 501,
+                "nombre_torneo": "CHAMPIONS LEAGUE: FINAL"
+        },
+        {
+                "id_torneo": 748,
+                "nombre_torneo": "JAPAN: J-League"
+        },
+        {
+                "id_torneo": 777,
+                "nombre_torneo": "COPA AMERICA: Group A"
+        },
+        {
+                "id_torneo": 778,
+                "nombre_torneo": "COPA AMERICA: Group B"
+        },
+        {
+                "id_torneo": 788,
+                "nombre_torneo": "BRASIL: National Cup"
+        },
+        {
+                "id_torneo": 915,
+                "nombre_torneo": "LATVIA: Virsliga"
+        },
+        {
+                "id_torneo": 1039,
+                "nombre_torneo": "ESTONIA: Meistriliiga"
+        },
+        {
+                "id_torneo": 1059,
+                "nombre_torneo": "WORLD CUP: CONMEBOL, Preminiaries"
+        },
+        {
+                "id_torneo": 1131,
+                "nombre_torneo": "KAZAKHSTAN: Premier League"
+        },
+        {
+                "id_torneo": 1185,
+                "nombre_torneo": "JAPAN: J-League 2"
+        },
+        {
+                "id_torneo": 1194,
+                "nombre_torneo": "BRASIL: Serie B"
+        },
+        {
+                "id_torneo": 1212,
+                "nombre_torneo": "GEORGIA: Erovnuli Liga"
+        },
+        {
+                "id_torneo": 1258,
+                "nombre_torneo": "CAF CHAMPIONS LEAGUE: Playoffs"
+        },
+        {
+                "id_torneo": 2815,
+                "nombre_torneo": "AFRICA: CAF Confederation Cup - Play Offs"
+        },
+        {
+                "id_torneo": 3093,
+                "nombre_torneo": "AFRICA NATIONS CUP: qualifying round, Group L"
+        }
+]
